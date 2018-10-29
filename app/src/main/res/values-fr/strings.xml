@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Répertoire de film</string>
+
+    <string name="txtDate">Date d\'affichage : </string>
+    <string name="btnDetail">COMPLET</string>
+    <string name="action_setting">Paramètres</string>
+    <string name="action_notification">Notification</string>
+</resources>

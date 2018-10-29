@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Directory</string>
+
+    <string name="txtDate">Play Date : </string>
+    <string name="btnDetail">DETAIL</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_notification">Notification</string>
+</resources>

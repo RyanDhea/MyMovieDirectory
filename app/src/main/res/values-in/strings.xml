@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Direktori Film</string>
+
+    <string name="txtDate">Tanggal Tayang : </string>
+    <string name="btnDetail">LENGKAP</string>
+    <string name="action_setting">Pengaturan</string>
+    <string name="action_notification">Notifikasi</string>
+</resources>

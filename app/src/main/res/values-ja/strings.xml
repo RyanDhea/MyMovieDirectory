@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">映画ディレクトリ</string>
+
+    <string name="txtDate">表示日：</string>
+    <string name="btnDetail">完全</string>
+    <string name="action_setting">設定</string>
+    <string name="action_notification">通知</string>
+</resources>
